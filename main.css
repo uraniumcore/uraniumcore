@@ -1,0 +1,35 @@
+body{
+	font-family: 'Roboto Mono';	
+	/*font-family: 'Source Code Pro', monospace;*/
+	background-color: #260064;
+	color: white;
+}
+.diver{
+	padding-top: 20px;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+.main{
+	position: center;
+	color: #2B985B;
+}
+header{
+	color: #6F9FFF;
+	padding-left: ;
+}
+header a{
+	font-size: 65%;
+	color: #2B985B;
+	padding-bottom: 0px;
+	text-decoration: none;
+}
+header a.active{
+	color: #EE9400;
+	padding-left: ;
+}
+header h1.h1head{
+	margin-top: 0px;
+}
+h3{
+	color: white;
+}
